@@ -1,4 +1,4 @@
-# [WIP] Warcraft 3 Multiplayer
+# [Warcraft III: The Frozen Throne](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link)
 Growing up, many of Dekada’s raiders were shaped by Warcraft III—a game that defined an era for our community. That shared experience inspired this project: a simple, safe, and *official* way to install the game.
 
 Too many of our players have dealt with risky installers from questionable sites, often flagged by Windows Defender or even deleting files mid-installation. This guide offers a trustworthy alternative.
@@ -8,12 +8,19 @@ I’ve shared it here on GitHub because the official FTP download can take over 
 Let's get back to Azeroth. Safely and swiftly.
 
 Jump to:
+* [Requirements](#requirements)  
 * [Installation](#installation)  
-  - [Warcraft III](#warcraft-iii)  
+  - [Warcraft III](#warcraft-iii)
   - [Radmin VPN](#radmin-vpn)  
-* [Multiplayer](#wip-multiplayer)  
-* [Maps](#wip-maps)
-* [FAQ](#wip-faq)
+* [Multiplayer](#multiplayer)  
+* [Maps](#maps)  
+* [FAQ](#faq)
+
+## Requirements
+> [!TIP]
+> Click the links below to DOWNLOAD.
+* [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link)
+* [Radmin VPN](https://www.radmin-vpn.com/)
 
 ## Installation
 > [!CAUTION]
@@ -28,7 +35,9 @@ Download the [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casny
 > You will need to have your "own set of CD keys"[^3] for RoC and TFT,  respectively.</br></br>
 #### Warcraft III: Reign of Chaos
 <p align="left">
-  <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/installRoC.gif" alt="Reign of Chaos Installation" width="700" height="560">
+  <a href="https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link" target="_blank">
+    <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/installRoC.gif" alt="Reign of Chaos Installation" width="700" height="560">
+  </a>
 </p>
 
 Open W3-1.27-ROC folder and click "Installer.exe," a prompt will popup then click "Yes."  
@@ -38,7 +47,9 @@ Choose your preferred directory for the game once the installation destination d
 You can now exit the RoC installer.</br></br>
 #### Warcraft III: The Frozen Throne
 <p align="left">
-  <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/installTFT.gif" alt="The Frozen Throne Installation" width="700" height="560">
+  <a href="https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link" target="_blank">
+    <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/installTFT.gif" alt="The Frozen Throne Installation" width="700" height="560">
+  </a>
 </p>
 
 Go to W3-1.27-TFT folder and click "Installer.exe," a prompt will popup then click "Yes."  
@@ -50,22 +61,24 @@ You can now close the TFT installer.</br></br>
 Radmin VPN allows us to use the Local Area Network feature of Warcraft III, reminiscent of [RGC](https://rankedgaming.com/) and [Garena](https://www.garena.ph/) days for Dota 1.
 
 <p align="left">
-  <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/installRadmin.gif" alt="Radmin VPN Installation" width="700" height="560">
+  <a href="https://www.radmin-vpn.com/" target="_blank">
+    <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/installRadmin.gif" alt="Radmin VPN Installation" width="700" height="560">
+  </a>
 </p>
 
 
 Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click "Install."
 
-## [WIP] Multiplayer
+## Multiplayer
 How to play
 
-### [WIP] Maps
+### Maps
 * How to install maps
 [DotA v6.83d](https://www.epicwar.com/maps/254544/)
 
 
 
-## [WIP] FAQ
+## FAQ
 
 [^1]: Alternatively, Blizzard Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
 [^2]: I personally use [7-Zip](https://www.7-zip.org/) Windows x64 (64-bit), though Windows 11 already has its own file archiver software, 7-Zip is just faster in compressing/extracting compressed files.
