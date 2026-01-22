@@ -19,20 +19,23 @@ Jump to:
 ## Requirements
 > [!TIP]
 > Click the links below to DOWNLOAD.
-* [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link)
+* [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link)[^1]
 * [Radmin VPN](https://www.radmin-vpn.com/)
+
+### Optional
+* [Maps](#maps)
 
 ## Installation
 > [!CAUTION]
 > Please read this README.md file before, during, and/or whenever you encounter hurdles while installing. If you reach out to me and ask questions that have already been answered in this README, you will be referred back here and/or ignored!
-### [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link)
-Download the [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link) installer[^1] and extract it with your preferred choice of file archiver software[^2].
+### Warcraft III
+Download the [Warcraft III](#requirements) installer and extract it with your preferred choice of file archiver software[^2].
 
-> [!IMPORTANT]
+> [!WARNING]
 > Reign of Chaos (RoC) should first be installed before The Frozen Throne (TFT) patch. TFT can't be installed without RoC.
 
-> [!WARNING] 
-> You will need to have your "own set of CD keys"[^3] for RoC and TFT,  respectively.</br></br>
+> [!NOTE] 
+> You will need to have your *own*[^3] CD keys for RoC and TFT, respectively.</br></br>
 #### Warcraft III: Reign of Chaos
 <p align="left">
   <a href="https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link" target="_blank">
@@ -42,7 +45,7 @@ Download the [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casny
 
 Open W3-1.27-ROC folder and click "Installer.exe," a prompt will popup then click "Yes."  
 Inside the installer, click "Install Warcraft III," and click "Agree" on the EULA.  
-A dialog will appear, fill "Name:" with your preferred name. For Warcraft III CD-Key, paste "your CD key,"[^3] and click "OK."  
+A dialog will appear, fill "Name:" with your preferred name. For Warcraft III CD-Key, paste *your*[^3] CD key, and click "OK."  
 Choose your preferred directory for the game once the installation destination directory pops up.  
 You can now exit the RoC installer.</br></br>
 #### Warcraft III: The Frozen Throne
@@ -54,7 +57,7 @@ You can now exit the RoC installer.</br></br>
 
 Go to W3-1.27-TFT folder and click "Installer.exe," a prompt will popup then click "Yes."  
 Inside the installer, click "Install Frozen Throne," and click "Agree" on the EULA.  
-A popup will come up, paste "your CD key,"[^3] and click "OK."  
+A popup will come up, paste *your*[^3] CD key, and click "OK."  
 You can now close the TFT installer.</br></br>
 
 ### [Radmin VPN](https://www.radmin-vpn.com/)
@@ -69,12 +72,14 @@ Radmin VPN allows us to use the Local Area Network feature of Warcraft III, remi
 
 Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click "Install."
 
+### Maps
+* [DotA v6.83d](https://www.epicwar.com/maps/254544/)
+* [Mafa TD Queen v4.5c](https://www.epicwar.com/maps/37264/)
 ## Multiplayer
 How to play
 
-### Maps
 * How to install maps
-[DotA v6.83d](https://www.epicwar.com/maps/254544/)
+
 
 
 
