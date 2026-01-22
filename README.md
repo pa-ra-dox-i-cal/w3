@@ -18,8 +18,8 @@ Jump to:
 ## Installation
 > [!CAUTION]
 > Please read this README.md file before, during, and/or whenever you encounter hurdles while installing. If you reach out to me and ask questions that have already been answered in this README, you will be referred back here and/or ignored!
-### [Warcraft III](https://github.com/pa-ra-dox-i-cal/wow/archive/refs/heads/main.zip)
-Download the [Warcraft III](https://github.com/pa-ra-dox-i-cal/wow/archive/refs/heads/main.zip) installer[^1] and extract it with your preferred choice of file archiver software[^2].
+### [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link)
+Download the [Warcraft III](https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link) installer[^1] and extract it with your preferred choice of file archiver software[^2].
 
 > [!IMPORTANT]
 > Reign of Chaos (RoC) should first be installed before The Frozen Throne (TFT) patch. TFT can't be installed without RoC.
