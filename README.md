@@ -67,6 +67,6 @@ How to play
 
 ## [WIP] FAQ
 
-[^1]: Alternatively, Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
+[^1]: Alternatively, Blizzard Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
 [^2]: I personally use [7-Zip](https://www.7-zip.org/) Windows x64 (64-bit), though Windows 11 already has its own file archiver software, 7-Zip is just faster in compressing/extracting compressed files.
 [^3]: IYKYK
