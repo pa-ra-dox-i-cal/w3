@@ -83,8 +83,26 @@ How to play
 * [Widescreen Fix for Warcraft III](https://github.com/ENAleksey/RenderEdge_Widescreen)
 
 ## FAQ
-**1. I can hear the game audio normally, but my screen remains completely black. The game seems to be running in the background.**  
-Go to
+### 1. I can hear the game audio normally, but my screen remains completely black. The game seems to be running in the background.
+> [!NOTE]
+> This is most likely an issue with your GPU where the resolution of the monitor and GPU mismatches. I still haven't found a better workaround than having it in windowed mode.
+#### 1.1 Windowed Mode Workaround
+<p align="left">
+  <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/faq1.png" alt="Windowed Mode Shortcut Fix" width="350">
+</p>
+
+If you don't have a shortcut for "Frozen Throne.exe," create one.  
+Right click the "Frozen Throne.exe" shortcut and go to properties.  
+Under the "Shortcut" tab, click on "Target: " and go to the end of line. (e.g., "C:\Games\Warcraft III\Frozen Throne.exe")  
+Type "-windowed" without the quotation marks. (e.g., "C:\Games\Warcraft III\Frozen Throne.exe" -windowed)
+
+#### 1.2 Widescreen Fix
+<p align="left">
+  <img src="https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/faq1.2.png" alt="Widescreen Fix" width="700">
+</p>
+
+If the workaround in [1.1](#11-windowed-mode-workaround) did not work, try downloading and installing the [Widescreen Fix](https://github.com/ENAleksey/RenderEdge_Widescreen) for Warcraft III into your Warcraft III main folder.
+
 [^1]: Alternatively, Blizzard Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
 [^2]: I personally use [7-Zip](https://www.7-zip.org/) Windows x64 (64-bit), though Windows 11 already has its own file archiver software, 7-Zip is just faster in compressing/extracting compressed files.
 [^3]: IYKYK
