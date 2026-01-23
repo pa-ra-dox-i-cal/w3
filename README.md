@@ -13,9 +13,12 @@ Jump to:
   - [Warcraft III](#warcraft-iii)
   - [Radmin VPN](#radmin-vpn)
   - [Maps](#maps)
-* [Multiplayer](#multiplayer)  
+* [Multiplayer](#multiplayer)
+  - [Private Network](#private-network)
+  - [Public Network](#gaming-public-network)
 * [Modifications](#maps)  
 * [FAQ](#faq)
+* [Credits](#credits)
 
 ## Requirements
 > [!TIP]
@@ -30,13 +33,14 @@ Jump to:
 > [!CAUTION]
 > Please read this README.md file before, during, and/or whenever you encounter hurdles while installing. If you reach out to me and ask questions that have already been answered in this README, you will be referred back here and/or ignored!
 ### Warcraft III
-Download the [Warcraft III](#requirements) installer and extract it with your preferred choice of file archiver software[^2].
-
 > [!WARNING]
 > Reign of Chaos (RoC) should first be installed before The Frozen Throne (TFT) patch. TFT can't be installed without RoC.
 
 > [!NOTE] 
-> You will need to have your *own*[^3] CD keys for RoC and TFT, respectively.</br></br>
+> You will need to have your *own*[^3] CD keys for RoC and TFT, respectively.</br>
+
+Download the [Warcraft III](#requirements) installer and extract it with your preferred choice of file archiver software[^2].
+
 #### Warcraft III: Reign of Chaos
 <p align="left">
   <a href="https://drive.google.com/file/d/1zngdYL0ELcJIy_casnyDqe-aIBnmYoYm/view?usp=drive_link" target="_blank">
@@ -76,10 +80,27 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 ### Maps
 * [DotA v6.83d](https://www.epicwar.com/maps/254544/)
 * [Mafa TD Queen v4.5c](https://www.epicwar.com/maps/37264/)
-## Multiplayer
-How to play
 
-## Modifcations
+## Multiplayer
+> [!TIP]
+> After you have connected to a network that you like, just go to Local Area Network inside Warcraft III, you will be able to see open lobbies.
+
+Radmin VPN allows us to choose various connection types whether hosting private networks or joining a private/gaming network.
+### Private Network
+This is ideal if you want to just play with your friends and don't want strangers joining in your lobby.
+
+#### Create Private Network
+![Create Private Network](https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/privateCreateRadmin.gif)
+
+#### Join Private Network
+![Join Private Network](https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/privateJoinRadmin.gif)
+
+### Gaming (Public) Network
+Ready for a new adventure? Jump into public lobbies to try maps you’ve never played. Or build your own lobby and call the shots. The public network is your playground.
+
+![Join Public Network](https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/publicJoinRadmin.gif)
+
+## Modifications
 * [Widescreen Fix for Warcraft III](https://github.com/ENAleksey/RenderEdge_Widescreen)
 
 ## FAQ
@@ -102,6 +123,13 @@ Type "-windowed" without the quotation marks. (e.g., "C:\Games\Warcraft III\Froz
 </p>
 
 If the workaround in [1.1](#11-windowed-mode-workaround) did not work, try downloading and installing the [Widescreen Fix](https://github.com/ENAleksey/RenderEdge_Widescreen) for Warcraft III into your Warcraft III main folder.
+
+## Credits
+Oliver bano  
+Layon panget  
+Ngards pisot  
+Ster bts biot  
+Dekada Warmane Community
 
 [^1]: Alternatively, Blizzard Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
 [^2]: I personally use [7-Zip](https://www.7-zip.org/) Windows x64 (64-bit), though Windows 11 already has its own file archiver software, 7-Zip is just faster in compressing/extracting compressed files.
