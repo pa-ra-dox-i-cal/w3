@@ -11,9 +11,10 @@ Jump to:
 * [Requirements](#requirements)  
 * [Installation](#installation)  
   - [Warcraft III](#warcraft-iii)
-  - [Radmin VPN](#radmin-vpn)  
+  - [Radmin VPN](#radmin-vpn)
+  - [Maps](#maps)
 * [Multiplayer](#multiplayer)  
-* [Maps](#maps)  
+* [Modifications](#maps)  
 * [FAQ](#faq)
 
 ## Requirements
@@ -78,13 +79,12 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 ## Multiplayer
 How to play
 
-* How to install maps
-
-
-
+## Modifcations
+* [Widescreen Fix for Warcraft III](https://github.com/ENAleksey/RenderEdge_Widescreen)
 
 ## FAQ
-
+**1. I can hear the game audio normally, but my screen remains completely black. The game seems to be running in the background.**  
+Go to
 [^1]: Alternatively, Blizzard Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
 [^2]: I personally use [7-Zip](https://www.7-zip.org/) Windows x64 (64-bit), though Windows 11 already has its own file archiver software, 7-Zip is just faster in compressing/extracting compressed files.
 [^3]: IYKYK
