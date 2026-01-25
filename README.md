@@ -88,6 +88,7 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 * [Mafa TD Queen v13.4](https://www.epicwar.com/maps/287886/)
 * [Skillshot Arena v1.5](https://www.epicwar.com/maps/295763/)
 * [War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)
+* [War of Philippine Heroes v2.2c](https://www.epicwar.com/maps/26383/)
 
 
 ## Multiplayer
@@ -110,7 +111,7 @@ Ready for a new adventure? Jump into public lobbies to try maps you’ve never p
 ![Join Public Network](https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/publicJoinRadmin.gif)
 
 ## Modifications
-* Warcraft Version Switcher - WIP
+* [Warcraft Version Switcher v1.61](http://www.dota-utilities.com/2016/03/warcraft3-tft-1.27a-patch-version-switcher.html) - Direct Download
 * [Widescreen Fix for Warcraft III](https://github.com/ENAleksey/RenderEdge_Widescreen)
 
 ## FAQ
