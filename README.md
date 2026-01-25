@@ -83,6 +83,7 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 
 * [Bleach vs. One Piece v10 AI](https://www.wc3maps.com/map/75819)
 * [DotA v6.83d AI 1.4e](https://www.epicwar.com/maps/311875/)
+* [Fight of Characters 7.7b E](https://www.epicwar.com/maps/62224/)
 * [Jurassic Park Survival EE v6.4](https://www.epicwar.com/maps/205851/)
 * [Mafa TD Queen v4.5c](https://www.epicwar.com/maps/37264/)
 * [Mafa TD Queen v13.4](https://www.epicwar.com/maps/287886/)
