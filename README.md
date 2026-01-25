@@ -78,8 +78,13 @@ Radmin VPN allows us to use the Local Area Network feature of Warcraft III, remi
 Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click "Install."
 
 ### Maps
-* [DotA v6.83d](https://www.epicwar.com/maps/254544/)
+* [Bleach vs. One Piece v10 AI](https://www.wc3maps.com/map/75819)
+* [DotA v6.83d AI 1.4e](https://www.epicwar.com/maps/311875/)
+* [Jurassic Park Survival EE v6.4](https://www.epicwar.com/maps/205851/)
 * [Mafa TD Queen v4.5c](https://www.epicwar.com/maps/37264/)
+* [Skillshot Arena v1.5](https://www.epicwar.com/maps/295763/)
+* [War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)
+
 
 ## Multiplayer
 > [!TIP]
@@ -101,6 +106,7 @@ Ready for a new adventure? Jump into public lobbies to try maps you’ve never p
 ![Join Public Network](https://github.com/pa-ra-dox-i-cal/w3/blob/main/demo/publicJoinRadmin.gif)
 
 ## Modifications
+* Warcraft Version Switcher - WIP
 * [Widescreen Fix for Warcraft III](https://github.com/ENAleksey/RenderEdge_Widescreen)
 
 ## FAQ
