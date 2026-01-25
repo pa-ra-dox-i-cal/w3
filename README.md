@@ -86,6 +86,7 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 * [Jurassic Park Survival EE v6.4](https://www.epicwar.com/maps/205851/)
 * [Mafa TD Queen v4.5c](https://www.epicwar.com/maps/37264/)
 * [Mafa TD Queen v13.4](https://www.epicwar.com/maps/287886/)
+* [Pudge vs. Mirana v3.2](https://www.epicwar.com/maps/177604/)
 * [Pudge Wars Advanced 1.25](https://www.epicwar.com/maps/124647/)
 * [Skillshot Arena v1.5](https://www.epicwar.com/maps/295763/)
 * ~~[War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)~~[^4]
