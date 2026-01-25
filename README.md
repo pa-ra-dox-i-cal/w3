@@ -87,7 +87,7 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 * [Mafa TD Queen v4.5c](https://www.epicwar.com/maps/37264/)
 * [Mafa TD Queen v13.4](https://www.epicwar.com/maps/287886/)
 * [Skillshot Arena v1.5](https://www.epicwar.com/maps/295763/)
-* [War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)
+* ~~[War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)~~ incompatible with 1.27
 * [War of Philippine Heroes v2.2c](https://www.epicwar.com/maps/26383/)
 
 
