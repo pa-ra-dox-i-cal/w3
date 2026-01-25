@@ -88,7 +88,7 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 * [Mafa TD Queen v13.4](https://www.epicwar.com/maps/287886/)
 * [Pudge Wars Advanced 1.25](https://www.epicwar.com/maps/124647/)
 * [Skillshot Arena v1.5](https://www.epicwar.com/maps/295763/)
-* ~~[War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)~~ incompatible with 1.27
+* ~~[War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)~~[^4]
 * [War of Philippine Heroes v2.2c](https://www.epicwar.com/maps/26383/)
 
 
@@ -146,3 +146,4 @@ Dekada Warmane Community
 [^1]: Alternatively, Blizzard Classic Warcraft III official installers and official patches can be found [here](https://us.forums.blizzard.com/en/warcraft3/t/classic-warcraft-iii-official-installers-official-patches/21415).
 [^2]: I personally use [7-Zip](https://www.7-zip.org/) Windows x64 (64-bit), though Windows 11 already has its own file archiver software, 7-Zip is just faster in compressing/extracting compressed files.
 [^3]: IYKYK
+[^4]: Incompatible with 1.27, to be reinstated once Warcraft Version Switcher is available
