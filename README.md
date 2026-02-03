@@ -93,6 +93,7 @@ Download [Radmin VPN](https://www.radmin-vpn.com/) installer then open and click
 * [Skillshot Arena v1.5](https://www.epicwar.com/maps/295763/)
 * ~~[War of Philippine Heroes v1.8 w/ AI](https://www.epicwar.com/maps/8711/)~~[^4]
 * [War of Philippine Heroes v2.2c](https://www.epicwar.com/maps/26383/)
+* [X Hero Siege 
 
 
 ## Multiplayer
@@ -138,6 +139,9 @@ Type "-windowed" without the quotation marks. (e.g., "C:\Games\Warcraft III\Froz
 </p>
 
 If the workaround in [1.1](#11-windowed-mode-workaround) did not work, try downloading and installing the [Widescreen Fix](https://github.com/ENAleksey/RenderEdge_Widescreen) for Warcraft III into your Warcraft III main folder.
+
+### 2. Cutscenes are either black/skipped
+Run the game as admin.
 
 ## Credits
 Oliver bano  
